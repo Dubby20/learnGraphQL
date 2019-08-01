@@ -1,0 +1,73 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Blossom",
+      "email": "blossom@gmail.com",
+      "age": 40,
+      "number": "0804567389",
+      "gender": "female",
+      "isAdult": true
+    },
+    {
+      "id": "2",
+      "name": "Alfred",
+      "email": "alfred@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "name": "Harry Porter",
+      "email": "harry@gmail.com",
+      "age": 34
+    },
+    {
+      "id": "4",
+      "name": "Bukky",
+      "email": "bukky@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "5",
+      "name": "Duziem",
+      "email": "duziem@gmail.com",
+      "age": 70
+    },
+    {
+      "name": "Johnny Bravo",
+      "email": "johnnybravo@bravo.com",
+      "age": 13,
+      "number": "08060909150",
+      "gender": "male",
+      "isAdult": true,
+      "id": "ArUk9eM"
+    },
+    {
+      "name": "Johnny Bravo",
+      "email": "johnnybravo@bravo.com",
+      "age": 13,
+      "number": "08060909150",
+      "gender": "male",
+      "isAdult": true,
+      "id": "lGKIG-o"
+    },
+    {
+      "name": "James Bravo",
+      "email": "johnnybravo@bravo.com",
+      "age": 13,
+      "number": "08060909150",
+      "gender": "male",
+      "isAdult": true,
+      "id": "mAOWlcl"
+    },
+    {
+      "name": "Sunny Bravo",
+      "email": "johnnybravo@bravo.com",
+      "age": 13,
+      "number": "08060909150",
+      "gender": "male",
+      "isAdult": true,
+      "id": "OeFKRxb"
+    }
+  ]
+}
